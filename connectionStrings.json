@@ -1,0 +1,6 @@
+{
+    "connections": [
+        "postgres://fulfillment_service:b8bedfb2f8c80e250a1b843d478735c7SDSA002778@rds-pg-01-dev-qa1.co5aftaydnu0.us-east-1.rds.amazonaws.com:5432/usa_fulfillmentservice?ssl=true",
+        "postgres://test_service:91c89284c0c9d34c631f8dbde155e810@rds-pg-02-dev-qa3.co5aftaydnu0.us-east-1.rds.amazonaws.com:5432/usa_test_service?ssl=true"
+    ]
+}
